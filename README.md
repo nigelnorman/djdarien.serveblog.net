@@ -7,4 +7,11 @@ I am a Systems Administrator by trade, but has been enjoying games passionately 
 
 I create various projects some are old programming projects of fun attempts others using Raspberry Pi`s , home servers , arcade cabinents ,and more!
 
-Check them out! & Thanks for visiting!
+Check them out at http://djdarien.serveblog.net/game-factory.html
+
+
+
+
+Thanks for visiting!
+
+
