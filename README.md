@@ -8,17 +8,12 @@
 <p></p>
 <p> Social Media Links </p>
 <li><a href="https://www.youtube.com/computerwiz/">My YouTube Channel</a>
-
- <p></p>
  
 <br> </br>
  <!-- <iframe src="https://player.twitch.tv/?channel=khaos_demon&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe> -->
 <p></p>
 
-
 <li><a href="https://www.twitch.tv/khaos_demon">My Twitch Channel</a>
- <p> </p>
-  
   
  <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4yHGoODrUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
